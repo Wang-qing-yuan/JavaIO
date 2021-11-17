@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d8544f7-b184-4c92-b996-f5213314e357" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Fourth/Fourth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Third/Third.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Program Files\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20MUF3DQOZTsXMMy9fnKuMN50Xd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaClassFindUsagesOptions.isSearchForTextOccurrences" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="D:/Java资料/学习笔记/gx-lam-dormitory-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15940489" />
+    <property name="project.structure.side.proportion" value="0.12903225" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.IOProject" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.Generics" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Administrator\Desktop\学习笔记\ForumDemo\src\main\java\com\zyDeng" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FileOperatorTest">
+    <configuration name="FileCreateDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.IOProject.FileCreateDelete" />
+      <module name="ForumDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.IOProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileGetMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.IOProject.FileGetMethods" />
+      <module name="ForumDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.IOProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileJudgeMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.IOProject.FileJudgeMethods" />
+      <module name="ForumDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.IOProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.IOProject.FilePath" />
+      <module name="ForumDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.IOProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileOperatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ForumDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.IOProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.IOProject" />
+      <option name="MAIN_CLASS_NAME" value="com.IOProject.FileOperatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FileOperatorTest" />
+        <item itemvalue="Application.FilePath" />
+        <item itemvalue="Application.FileGetMethods" />
+        <item itemvalue="Application.FileCreateDelete" />
+        <item itemvalue="Application.FileJudgeMethods" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d8544f7-b184-4c92-b996-f5213314e357" name="Default Changelist" comment="" />
+      <created>1635853842092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635853842092</updated>
+      <workItem from="1635853848612" duration="32176000" />
+      <workItem from="1636333984573" duration="4550000" />
+      <workItem from="1636344466901" duration="16425000" />
+      <workItem from="1636371452429" duration="641000" />
+      <workItem from="1636764839411" duration="11492000" />
+      <workItem from="1637064168883" duration="10439000" />
+    </task>
+    <task id="LOCAL-00001" summary="11.17-IOTest">
+      <created>1637138763175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637138763175</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11.17-IOTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.17-IOTest" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="419" y="34" key="#FileGetMethods" timestamp="1637109448731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="419" y="34" key="#FileGetMethods/0.0.1366.728@0.0.1366.728" timestamp="1637109448731" />
+    <state x="275" y="22" key="#Inspections" timestamp="1637109348418">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1637109348418" />
+    <state x="275" y="22" key="#Plugins" timestamp="1636766852403">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1636766852403" />
+    <state x="275" y="22" key="#Project_Structure" timestamp="1637108954933">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1637108954933" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635854201497">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1635854201497" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1636766109156">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1636766109156" />
+    <state x="309" y="0" key="CommitChangelistDialog2" timestamp="1637138760964">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1637138760964" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1636346126968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1636346126968" />
+    <state width="1323" height="186" key="GridCell.Tab.0.bottom" timestamp="1637143131870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="186" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1637143131870" />
+    <state width="1323" height="186" key="GridCell.Tab.0.center" timestamp="1637143131870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="186" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1637143131870" />
+    <state width="1323" height="186" key="GridCell.Tab.0.left" timestamp="1637143131870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="186" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1637143131870" />
+    <state width="1323" height="186" key="GridCell.Tab.0.right" timestamp="1637143131870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1637143131870" />
+    <state width="1323" height="314" key="GridCell.Tab.1.bottom" timestamp="1637109591080">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="314" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1637109591080" />
+    <state width="1323" height="314" key="GridCell.Tab.1.center" timestamp="1637109591080">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="314" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1637109591080" />
+    <state width="1323" height="314" key="GridCell.Tab.1.left" timestamp="1637109591080">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="314" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1637109591080" />
+    <state width="1323" height="314" key="GridCell.Tab.1.right" timestamp="1637109591080">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="314" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1637109591080" />
+    <state x="199" y="7" key="SettingsEditor" timestamp="1636766786778">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="199" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1636766786778" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1637138949283">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1637138949283" />
+    <state x="309" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1637110404143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1637110404143" />
+    <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1637110589524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1637110589524" />
+    <state x="57" y="59" key="new project wizard" timestamp="1636764868089">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1636764868089" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1636766834756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1636766834756" />
+  </component>
+</project>
